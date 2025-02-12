@@ -18,6 +18,10 @@
 
  This module introduces us to a new functionality - function types. This feature makes our work with function more clear, because typing a function in such a way allows us to see what this function accepts as arguments and returns. It works with function expression, function declaration and arrow function and like in JS, we can use default parameters. The usage of optional parameters makes our work more flexible. Besides, we can use interfaces to type functions so we don’t need to type every parameter. 
 
- **Declare and Instantiate Classes in TypeScript / Объявление классов и создание их экземпляров в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/3RLVDS2H?sharingId=432EB021A01EAC95)
+ - **Declare and Instantiate Classes in TypeScript / Объявление классов и создание их экземпляров в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/3RLVDS2H?sharingId=432EB021A01EAC95)
 
  TS is a perfect tool to implement OOP paradigms. It has special features to operate with classes. TS allows us to use access modifiers (private, protected, readonly). Besides, we can use interfaces to ensure class shape. Typing class fields protects us from creating a wrong instance. 
+
+ - **Generics in TypeScript / Определение универсальных шаблонов в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/ZKF5EQN2?sharingId=432EB021A01EAC95)
+
+ Another paradigm of OOP - polymorphism - is implemented well with help of Generics. We can use generic functions, classes and interfaces when we work with a variety of data types (call functions with different types) so we reduce our code because it’s reusable. For example, we don’t need to write several functions that do the same thing but operate with different types and can give us different results (such as usage of binary + that works with numbers as summary operators and contacts strings when we operate with string type).
