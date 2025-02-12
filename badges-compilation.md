@@ -17,3 +17,7 @@
  - **Develop Typed Functions in TypeScript / Разработка типизированных функций с использованием TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/UY52VA23?sharingId=432EB021A01EAC95)
 
  This module introduces us to a new functionality - function types. This feature makes our work with function more clear, because typing a function in such a way allows us to see what this function accepts as arguments and returns. It works with function expression, function declaration and arrow function and like in JS, we can use default parameters. The usage of optional parameters makes our work more flexible. Besides, we can use interfaces to type functions so we don’t need to type every parameter. 
+
+ **Declare and Instantiate Classes in TypeScript / Объявление классов и создание их экземпляров в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/3RLVDS2H?sharingId=432EB021A01EAC95)
+
+ TS is a perfect tool to implement OOP paradigms. It has special features to operate with classes. TS allows us to use access modifiers (private, protected, readonly). Besides, we can use interfaces to ensure class shape. Typing class fields protects us from creating a wrong instance. 
