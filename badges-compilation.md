@@ -9,3 +9,7 @@
 - **Declare Variable Types in TypeScript / Объявление типов переменных в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/VDY58NZM?sharingId=432EB021A01EAC95)
 
  This module explains how to declare variables with TS. The most important difference from JS is that mostly each variable should be declared with type. It can be not only well known types such as string and number, but also new types such as any, unknown, enum, void, interface etc. There is also some special construction such as type assertion, type guards, union and intersection types, literal types and literal narrowing, tuples. We should know what to choose because different constructions have different effects and allow us either narrow or make the type more flexible. 
+
+ - **Implement Interfaces in TypeScript / Реализация интерфейсов в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/4L2UGLBK?sharingId=432EB021A01EAC95)
+
+ In this module we knew about a new thing that doesn’t exist in JS - interfaces. It's a very useful tool for typing variables, firstly because we can describe a type (with interface) once and use it many times for different variables with the same type, secondly - because it makes us strictly use all the fields and methods of interface (if they are not optional). 
