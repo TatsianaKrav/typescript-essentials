@@ -25,3 +25,7 @@
  - **Generics in TypeScript / Определение универсальных шаблонов в TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/ZKF5EQN2?sharingId=432EB021A01EAC95)
 
  Another paradigm of OOP - polymorphism - is implemented well with help of Generics. We can use generic functions, classes and interfaces when we work with a variety of data types (call functions with different types) so we reduce our code because it’s reusable. For example, we don’t need to write several functions that do the same thing but operate with different types and can give us different results (such as usage of binary + that works with numbers as summary operators and contacts strings when we operate with string type).
+
+ - **Work with External Libraries in TypeScript / Доступ к внешним библиотекам из TypeScript:** [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/16914371/DCQWHM8J?sharingId=432EB021A01EAC95)
+
+ This module tells us how to organize our code - with the usage of modules and namespace. It describes mostly how to work with modules. Actually, it’s realized in such a way as we do it in JS - using import and export. This module also explains how to use external libraries with TS. Modules are useful to make the architecture and logic of our project more clear, help to avoid the pollution of global scope and allow us to reuse our code .
